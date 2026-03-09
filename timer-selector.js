@@ -76,7 +76,7 @@ var TRANSLATIONS = {
     'width': 'Width',
     'css-extra': 'Custom timer CSS (optional)',
     'template': 'Output template',
-    'template-deletion': 'Beginning deletion confirmation at %%score%%.%%summary%%\n\n%%iframe%%\n\nIf this article is over a year old, you are not the author, and you want to rewrite this article, PM/DM a member of the [[[bau-oversight.wikidot.com/critique-main|Critique Team]]]. Please request permission from the author and make sure you copy the page source to your sandbox. **Do not reply to this post unless you are staff.**',
+    'template-deletion': 'Beginning deletion confirmation at %%score%%.%%summary%%\n\n%%iframe%%\n\nIf this article is over a year old, you are not the author, and you want to rewrite this article, PM/DM a member of the [[bau-oversight.wikidot.com/critique-main|Critique Team]]. Please request permission from the author and make sure you copy the page source to your sandbox. **Do not reply to this post unless you are staff.**',
     'template-ban': '%%iframe%%',
     'message-deletion-progress': 'This page will be eligible for deletion in',
     'message-deletion-finished': 'This page has been eligible for deletion since',
